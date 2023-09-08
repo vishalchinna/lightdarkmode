@@ -1,0 +1,39 @@
+.lightNavbar {
+  background-color: #dcdcdc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5px;
+}
+.darkNavbar {
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tag-links {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.logo {
+  height: 50px;
+}
+.lightTags {
+  margin-left: 40px;
+  text-decoration: none;
+  color: #171f46;
+  font-weight: bold;
+  font-size: 19px;
+}
+.darkTags {
+  margin-left: 40px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+}
+.theme-btn {
+  background-color: transparent;
+  border: none;
+}

@@ -1,0 +1,25 @@
+.icon {
+  height: 200px;
+}
+.darkHome {
+  height: 92vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.darkTitle {
+  font-size: 40px;
+  color: white;
+}
+.lightHome {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.lightTitle {
+  font-size: 40px;
+}
